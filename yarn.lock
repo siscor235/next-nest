@@ -1485,10 +1485,10 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@nestjs/apollo@^14.0.3":
-  version "14.0.3"
-  resolved "https://registry.yarnpkg.com/@nestjs/apollo/-/apollo-14.0.3.tgz#7a994dd68917c5c86c7c120ba36118c0d3622c8f"
-  integrity sha512-WDxv+iQPJgj2drsKvGDejmw0Gqbgl/3ZnR46N5k7N7YZ3J4UjEI499UeTTLqGPwOLzvRjsiQ6ZFA5jHS6CzHsw==
+"@nestjs/apollo@^14.1.1":
+  version "14.1.1"
+  resolved "https://registry.yarnpkg.com/@nestjs/apollo/-/apollo-14.1.1.tgz#37bf39b58f961e4000b05b2cdfd7d6d5d6064183"
+  integrity sha512-2rh9yF89jvgv17n1Jm4FpsFRUrLIb7uayw2MxsBEfAHAZs16D8NR5BPxmQ0Td1551/mU/Ic9awpTCNskWxxWkg==
   dependencies:
     iterall "1.3.0"
     lodash.omit "4.18.0"
